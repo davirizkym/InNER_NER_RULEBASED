@@ -1,9 +1,9 @@
 # Named Entity Recognition (NER) & Social Network Analysis (SNA) untuk Bahasa Indonesia
 
-Authors
+Writer
 - Davi Rizky Madani – 2411502061@student.budiluhur.ac.id
 
-Supervisor
+Co-Writer
 - Dr. Indra, S.Kom, M.T.I. – indra@budiluhur.ac.id
 
 
