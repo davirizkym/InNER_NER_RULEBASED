@@ -1,9 +1,10 @@
 # Named Entity Recognition (NER) & Social Network Analysis (SNA) untuk Bahasa Indonesia
 
 Authors
-
 - Davi Rizky Madani – 2411502061@student.budiluhur.ac.id
-- Indra – indra@budiluhur.ac.id
+
+Supervisor
+- Dr. Indra, S.Kom, M.T.I. – indra@budiluhur.ac.id
 
 
 Repositori ini berisi *script* Python dalam format Jupyter Notebook (`NER_with_InNER_NetworkOptions.ipynb`) yang dirancang untuk melakukan **ekstraksi entitas teks** (Named Entity Recognition) secara otomatis menggunakan pendekatan *Rule-Based*, sekaligus memformat hasilnya menjadi **grafik/jaringan** yang siap divisualisasikan menggunakan alat Social Network Analysis (SNA) seperti **Gephi**.
